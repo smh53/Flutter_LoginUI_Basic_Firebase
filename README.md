@@ -5,6 +5,9 @@ Login UI design and basic register/login firebase implementation(Firebase for IO
 # Design
 https://dribbble.com/shots/4921110-Profile-Screen-UI
 
+![huiex_2x](https://user-images.githubusercontent.com/39862947/89565138-c2655880-d826-11ea-92c4-d27376781d74.jpg)
+
+
 # Screenshots
 
 ![117208424_179914573521307_7841517301562456799_n](https://user-images.githubusercontent.com/39862947/89564965-7d412680-d826-11ea-8ce5-7a47558b5e86.jpg)
