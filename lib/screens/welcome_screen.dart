@@ -5,7 +5,6 @@ import 'package:flutter_app_firebase_exa/screens/register_screen.dart';
 import 'package:flutter_app_firebase_exa/utilities/constants.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:polygon_clipper/polygon_border.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 
 import 'logged_screen.dart';
 
